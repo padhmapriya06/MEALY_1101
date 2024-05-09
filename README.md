@@ -19,7 +19,7 @@ STEP:5 Select the run simulation and then run Behavioral Simulation in the Sourc
 STEP:6 Click the simulation to simulate the program and give the inputs and verify the outputs as per the truth table.
 
 STEP:7 compare the output with truth table.
-# STATE BDIAGRAM
+# STATE DIAGRAM
 ![image](https://github.com/RESMIRNAIR/MEALY_1101/assets/154305926/fce7c9dc-e0df-4528-843b-559bf24f018a)
 # PROGRAM
 module mealy1101 (x,z,clk,rst);
@@ -91,4 +91,4 @@ end
 endmodule
 # Output:
 # Result:
-Thus the verilog program for 16bit ALU has been simulated and verified successfully.
+Thus the verilog program for  has been simulated and verified successfully.
