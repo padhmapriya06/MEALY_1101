@@ -90,5 +90,7 @@ end
 
 endmodule
 # Output:
+![image](https://github.com/padhmapriya06/MEALY_1101/assets/160568779/bc245122-97a4-40a3-b2f3-579d44bc386f)
+
 # Result:
 Thus the verilog program for MEALY Sequence Detecor for 1101 has been simulated and verified successfully.
