@@ -1,6 +1,6 @@
 # MEALY_1101
 # AIM
-To stimulate and synthesis MEALY Sequence Detecor using Vivado.
+To stimulate and synthesis MEALY Sequence Detecor for 1101 using Vivado.
 
 # Software Required:
 vivado 2023.2 software.
@@ -91,4 +91,4 @@ end
 endmodule
 # Output:
 # Result:
-Thus the verilog program for  has been simulated and verified successfully.
+Thus the verilog program for MEALY Sequence Detecor for 1101 has been simulated and verified successfully.
